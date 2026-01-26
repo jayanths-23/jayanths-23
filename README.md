@@ -75,5 +75,3 @@ I'm a Cloud & DevOps enthusiast who loves turning ideas into scalable, serverles
 
 ###
 
-<img src="https://raw.githubusercontent.com/jayanths-23/jayanths-23/output/snake.svg" alt="Snake animation" />
-
