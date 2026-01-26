@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Namaskara%20%F0%9F%99%8F&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -16,12 +22,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/jayanths-23.https://github.com/jayanths-23&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jayanths-23.jayanths-23&"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h2 align="center">Hey there!<br>Jay here</h2>
 
 ###
 
@@ -29,7 +35,7 @@
 
 ###
 
-<p align="left">I'm a Cloud & DevOps enthusiast who loves turning ideas into **scalable, serverless systems on AWS**. I focus on building secure, automated, and cloud-native applications that solve real-world problems.<br><br>- 🛠️ Building with: AWS, Docker, Linux, Git, CI/CD  <br>- 🌱 Learning: Kubernetes & Infrastructure as Code (Terraform)  <br>- 🎯 Goal: Become a high-impact Cloud / DevOps Engineer</p>
+<p align="left">I'm a Cloud & DevOps enthusiast who loves turning ideas into scalable, serverless systems on AWS. I focus on building secure, automated, and cloud-native applications that solve real-world problems.<br><br>- 🛠️ Building with: AWS, Docker, Linux, Git, CI/CD  <br>- 🌱 Learning: Kubernetes & Infrastructure as Code (Terraform)  <br>- 🎯 Goal: Become a high-impact Cloud / DevOps Engineer</p>
 
 ###
 
@@ -61,24 +67,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/jayanths-23/jayanths-23/output/snake.svg" alt="Snake animation" />
 
 ###
