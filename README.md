@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Namaskara%20%F0%9F%99%8F&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" />
+  <img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Namaskara%20&textBg=false&descAlign=50&descAlignY=0&animation=fadeIn&reversal=false"/>
 </div>
 
 ###
