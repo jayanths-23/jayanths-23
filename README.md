@@ -1,36 +1,37 @@
-<div>
- <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Namaskara%20%F0%9F%99%8F&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" />
+<!-- ===== HERO BANNER ===== -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Namaskara%20%F0%9F%99%8F&desc=Cloud%20%26%20DevOps%20Engineer&descSize=18&fontSize=44&fontColor=FFFFFF&theme=cobalt"
+  width="100%"
+/>
 
-###
-
+<!-- ===== HERO CONTENT ===== -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
-###
+  <img
+    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+    width="200"
+    alt="coding gif"
+  />
 
-<div align="center">
-  <!-- LinkedIn FIXED -->
+  <br><br>
+
+  <!-- Social Buttons -->
   <a href="https://www.linkedin.com/in/jayanth-s-422824330" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sjayanthmurthy23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="28" />
   </a>
 
-  <!-- Gmail FIXED -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sjayanthmurthy23@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-</a>
+  <br><br>
 
-</div>
-
-###
-
-<div align="center">
+  <!-- Visitor Counter -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jayanths-23.jayanths-23" />
+
+  <h2>Hey there!<br>Jay here</h2>
+
 </div>
 
-###
-
-<h2 align="center">Hey there!<br>Jay here</h2>
 
 ###
 
