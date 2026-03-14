@@ -4,91 +4,91 @@
 
 <h1 align="center">Hi 👋 I'm Jayanth</h1>
 
-<h3 align="center">
+<h2 align="center">
 Computer Science Student | Cloud & DevOps Enthusiast ☁️
+</h2>
+
+<h3 align="center">
+Building scalable applications using <b>AWS, Docker, and Linux 🚀</b>
 </h3>
 
-<p align="center">
-Building scalable applications using <b>AWS, Docker, and Linux 🚀</b>
-</p>
-
----
+<br>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
 
-🔭 I’m currently working on **Cloud and DevOps projects using AWS and Docker**
+<h3>
 
-🌱 I’m currently learning **Kubernetes, Terraform, and CI/CD pipelines**
+🔭 I’m currently working on <b>Cloud and DevOps projects using AWS and Docker</b>
 
-💬 Ask me about **AWS, Docker, Linux, Cloud Architecture, and Web Development**
+<br><br>
 
-⚡ Fun fact: I enjoy designing **serverless cloud applications and automation workflows**
+🌱 I’m currently learning <b>Kubernetes, Terraform, and CI/CD pipelines</b>
+
+<br><br>
+
+💬 Ask me about <b>AWS, Docker, Linux, Cloud Architecture, and Web Development</b>
+
+<br><br>
+
+⚡ Fun fact: I enjoy designing <b>serverless cloud applications and automation workflows</b>
+
+</h3>
 
 </div>
 
----
+<br>
 
 <h2 align="center">🛠️ My Skill Set</h2>
 
 <table align="center">
 <tr>
+
 <td align="center" width="33%">
 
-<h3>Frontend</h3>
+<h2>Frontend</h2>
 
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="60"/>
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="70"/>
 
 </td>
 
 <td align="center" width="33%">
 
-<h3>Backend</h3>
+<h2>Backend</h2>
 
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="60"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="70"/>
 
 </td>
 
 <td align="center" width="33%">
 
-<h3>DevOps</h3>
+<h2>DevOps</h2>
 
-<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" height="60"/>
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="60"/>
+<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="70"/>
 
 </td>
+
 </tr>
 </table>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jayanths-23&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanths-23&theme=tokyonight"/>
-</p>
-
----
+<br>
 
 <h2 align="center">📫 Connect With Me</h2>
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:sjayanthmurthy23@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -102,9 +102,9 @@ Building scalable applications using <b>AWS, Docker, and Linux 🚀</b>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jayanths-23&style=for-the-badge&color=blue"/>
