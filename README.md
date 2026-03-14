@@ -4,6 +4,9 @@
   
 
 ### **<div align="center">Hi 👋 I'm Jayanth, a Computer Science student passionate about Cloud Computing and DevOps ☁️ building scalable applications using AWS, Docker, and Linux 🚀</div>**  
+
+
+🔭 I’m currently working on cloud and DevOps projects using AWS and Docker
   
 
 - 🌱 I’m currently learning Kubernetes, Terraform and CI/CD pipelines  
