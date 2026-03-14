@@ -45,39 +45,39 @@ Building scalable applications using <b>AWS, Docker, and Linux 🚀</b>
 <table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <h2>Frontend</h2>
 
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="70" style="margin:8px"/>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <h2>Backend</h2>
 
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="70" style="margin:8px"/>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <h2>DevOps</h2>
 
-<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" height="70"/>
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="70"/>
+<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" height="70" style="margin:8px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="70" style="margin:8px"/>
 
 </td>
 
